@@ -1,0 +1,1 @@
+// =============================== // MỞ GOOGLE MAPS // =============================== function openMap() { // SAU NÀY THAY LINK NÀY // bằng link Google Maps địa điểm cưới const mapLink = "https://maps.app.goo.gl/zv7ASN2XrPLpDvom7"; window.open(mapLink, "_blank"); }
